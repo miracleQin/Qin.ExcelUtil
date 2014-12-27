@@ -1,0 +1,4 @@
+E:\workstation\C#\test\ConsoleApplication\ExcelUtil\ExcelUtil\ExcelUtil\bin\Debug\Qin.ExcelUtil.dll
+E:\workstation\C#\test\ConsoleApplication\ExcelUtil\ExcelUtil\ExcelUtil\bin\Debug\Qin.ExcelUtil.pdb
+E:\workstation\C#\test\ConsoleApplication\ExcelUtil\ExcelUtil\ExcelUtil\obj\Debug\Qin.ExcelUtil.dll
+E:\workstation\C#\test\ConsoleApplication\ExcelUtil\ExcelUtil\ExcelUtil\obj\Debug\Qin.ExcelUtil.pdb

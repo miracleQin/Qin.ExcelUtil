@@ -1,0 +1,13 @@
+E:\work\CSharp\test\Lib\ExcelUtil\TestConsoleApplication1\bin\Debug\TestConsoleApplication1.exe.config
+E:\workstation\C#\test\ConsoleApplication\ExcelUtil\ExcelUtil\TestConsoleApplication1\bin\Debug\TestConsoleApplication1.exe.config
+E:\workstation\C#\test\ConsoleApplication\ExcelUtil\ExcelUtil\TestConsoleApplication1\obj\Debug\TestConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\workstation\C#\test\ConsoleApplication\ExcelUtil\ExcelUtil\TestConsoleApplication1\bin\Debug\TestConsoleApplication1.exe
+E:\workstation\C#\test\ConsoleApplication\ExcelUtil\ExcelUtil\TestConsoleApplication1\bin\Debug\TestConsoleApplication1.pdb
+E:\workstation\C#\test\ConsoleApplication\ExcelUtil\ExcelUtil\TestConsoleApplication1\bin\Debug\ExcelUtil.dll
+E:\workstation\C#\test\ConsoleApplication\ExcelUtil\ExcelUtil\TestConsoleApplication1\bin\Debug\Aspose.Cells.dll
+E:\workstation\C#\test\ConsoleApplication\ExcelUtil\ExcelUtil\TestConsoleApplication1\bin\Debug\ExcelUtil.pdb
+E:\workstation\C#\test\ConsoleApplication\ExcelUtil\ExcelUtil\TestConsoleApplication1\obj\Debug\TestConsoleApplication1.exe
+E:\workstation\C#\test\ConsoleApplication\ExcelUtil\ExcelUtil\TestConsoleApplication1\obj\Debug\TestConsoleApplication1.pdb
+E:\workstation\C#\test\ConsoleApplication\ExcelUtil\ExcelUtil\Qin.ExcelUtil\ExcelUtil\TestConsoleApplication1\bin\Debug\TestConsoleApplication1.exe.config
+E:\workstation\C#\test\ConsoleApplication\ExcelUtil\ExcelUtil\Qin.ExcelUtil\ExcelUtil\TestConsoleApplication1\obj\Debug\TestConsoleApplication1.exe
+E:\workstation\C#\test\ConsoleApplication\ExcelUtil\ExcelUtil\Qin.ExcelUtil\ExcelUtil\TestConsoleApplication1\obj\Debug\TestConsoleApplication1.pdb
